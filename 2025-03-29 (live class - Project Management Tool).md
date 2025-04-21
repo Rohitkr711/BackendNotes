@@ -1,5 +1,4 @@
 #### Basic Deployment in AWS EC2. ==(learn more & implement)==
-![alt text](pasted image 20250330122756.png)
 ![alt text](image.png)
 - Local system connecting to AWS's linux machine through SSH key.
 - We can pull the github code into the linux machine through our credentials.
